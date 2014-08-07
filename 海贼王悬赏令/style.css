@@ -40,7 +40,7 @@ h1{
 
 #onepiece li img{
 	display: block;
-	width:850;
+	width:850px;
 }
 
 #onepiece ul:hover li{
@@ -48,7 +48,7 @@ h1{
 }
 
 #onepiece ul li:hover{
-	width:850px;
+	width:810px;
 }
 
 
